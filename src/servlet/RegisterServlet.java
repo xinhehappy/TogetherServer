@@ -94,7 +94,7 @@ public class RegisterServlet extends HttpServlet {
 		}
 		out.write(i.toString());
 		out.flush();
-		out.close();
+		out.close();//¹Ø±ÕÊä³öÁ÷
 	}
 
 	/**
