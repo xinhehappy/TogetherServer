@@ -5,8 +5,8 @@ import java.sql.*;
 public class BaseDao {
 	private static String driver = "com.mysql.jdbc.Driver";
 	private static String url = "jdbc:mysql://localhost:3306/together";
-	private static String username = "together";
-	private static String password = "123456";
+	private static String username = "root";
+	private static String password = "root";
 
 
 
